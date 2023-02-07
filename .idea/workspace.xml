@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f41a65-0053-456a-9176-321e3a3c9288" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CollectionFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex/List03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/List01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/List02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/StuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/StuTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Set01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Set02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Set03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Set04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/dev/workspace/CollectionFramework/src/ex"
+    "last_opened_file_path": "D:/dev/workspace/CollectionFramework"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
+      "PLAIN_TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,6 +66,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675393959412</updated>
     </task>
+    <task id="LOCAL-00001" summary="first update">
+      <created>1675413099020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675413099020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first update" />
+    <option name="LAST_COMMIT_MESSAGE" value="first update" />
   </component>
 </project>
